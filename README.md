@@ -9,6 +9,7 @@
 ## 1.1 安装好Java的运行环境，推荐jdk8
 ## 1.2 下载好官网的百度网盘的下载工具，并且打开登录好你的svip
 ## 1.3 下载安装好Chrome浏览器
+## 1.4 下载存储好Chrome driver驱动 ，具体根据自己的Chrome浏览器版本和自己的操作系统类型，下载对应的驱动 http://npm.taobao.org/mirrors/chromedriver/
 
 # step 2 运行前准备
 ## 2.1 请在你的操作系统环境下，配置好下面的环境变量，一共2个需要配置
