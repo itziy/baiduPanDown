@@ -19,6 +19,7 @@
 
 # step 3 Chrome配置启动
 ## 3.1 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --user-data-dir="/tmp"  # 端口代码写死了，mac下启动例子
+## 3.2 window系统例子 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenum\AutomationProfile"
 
 # step 4 启动程序
 ## java -jar GatherBaiduPan.jar 网盘地址 提取码
